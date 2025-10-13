@@ -11,7 +11,7 @@ Coming from hardworking and selfless Vietnamese parents, I grew up with a strong
 
 While pursuing a career in web development, I've interested myself in topics such as web accessibility, aiming to create websites that are not only functional but also inclusive and user-friendly. I often catch myself noticing small design or usability issues on websites and thinking about how they could be improved. Knowing that small design/functionality changes can help everyday users like me have a better experience motivates me to continue pursuing web development.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio_Link-eb4034)](Kwinoa.github.io/SeniorPresentation)
+[![Portfolio](https://img.shields.io/badge/Portfolio_Link-eb4034)](portfoliokalina.dev)
 
 # 📚 Topics of Interest
 
