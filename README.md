@@ -1,9 +1,9 @@
-# 💻 Kalina Tran
+<img width="2908" height="787" alt="github-header-banner" src="https://github.com/user-attachments/assets/6c76a994-4bb2-4dd3-8b2e-2b321002fb52" />
 
 
 
 
-![](https://img.shields.io/badge/Web_Developer-e0e0e0)
+
 
 Hi! My name is Kalina, and I’m currently a junior studying Computer Science and Accounting at the University of Utah.
 
