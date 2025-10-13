@@ -1,4 +1,40 @@
-## Hi there 👋
+# 💻 Kalina Tran
+
+
+
+
+![](https://img.shields.io/badge/Web_Developer-e0e0e0)
+
+Hi! My name is Kalina, and I’m currently a junior studying Computer Science and Accounting at the University of Utah.
+
+Coming from hardworking and selfless Vietnamese parents, I grew up with a strong desire to help others and give back to my community. However, because of my love for logic and problem-solving, I often struggled to find a career path that satisfied both my analytical side and my drive to make a positive impact. Often I felt like pursuing a career in tech was contradictory or even selfish, but I’ve come to realize that a job doesn’t define who you are and that there are many ways to contribute to society.
+
+While pursuing a career in web development, I've interested myself in topics such as web accessibility, aiming to create websites that are not only functional but also inclusive and user-friendly. I often catch myself noticing small design or usability issues on websites and thinking about how they could be improved. Knowing that small design/functionality changes can help everyday users like me have a better experience motivates me to continue pursuing web development.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio_Link-eb4034)](Kwinoa.github.io/SeniorPresentation)
+
+# 📚 Topics of Interest
+
+<ul>
+  <li>Web Accessibility</li>
+  <li>Motion Design</li>
+  <li>Responsive Design</li>
+  <li>Social Justice</li>
+</ul>
+
+
+# 🔧 Some Cool Skills! (Expect more on the way...)
+<p>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="50"/>
+<img src="https://github.com/user-attachments/assets/a44e69e8-6a4e-4628-9e5a-ee8c6c5d9418" alt="CSS" width="50"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="HTML" width="50"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" width="50"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" width="50"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" alt="github" width="50"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL" width="50"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="Django" width="50"/>
+</p>
 
 <!--
 **Kwinoa/Kwinoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
