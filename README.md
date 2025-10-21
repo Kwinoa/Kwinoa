@@ -4,21 +4,21 @@
 
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=F7F7F7&multiline=true&width=635&lines=Hi!+My+name+is+Kalina%2C+and+I%E2%80%99m+currently+a+junior+studying;Computer+Science+and+Accounting+at+the+University+of+Utah.)](https://git.io/typing-svg)
 
-Hi! My name is Kalina, and I’m currently a junior studying Computer Science and Accounting at the University of Utah.
+Coming from hardworking and selfless Vietnamese parents, I grew up with a strong desire to help others and give back to my community. From taking on chores and learning how to fix things myself in order to help reduce my parents' workload, to volunteering at dozens of places, my mission has persisted, but now I am finding ways to use my expertise in Computer Science to do the same. 
 
-Coming from hardworking and selfless Vietnamese parents, I grew up with a strong desire to help others and give back to my community. However, because of my love for logic and problem-solving, I often struggled to find a career path that satisfied both my analytical side and my drive to make a positive impact. Often I felt like pursuing a career in tech was contradictory or even selfish, but I’ve come to realize that a job doesn’t define who you are and that there are many ways to contribute to society.
-
-While pursuing a career in web development, I've interested myself in topics such as web accessibility, aiming to create websites that are not only functional but also inclusive and user-friendly. I often catch myself noticing small design or usability issues on websites and thinking about how they could be improved. Knowing that small design/functionality changes can help everyday users like me have a better experience motivates me to continue pursuing web development.
+My experience spans both front-end and back-end development, from responsive layouts with HTML5 and CSS3, to managing databases with SQL, Django, and APIs. Currently, I serve as the volunteer Web Developer for a local nonprofit, where I’m revamping their site design to improve accessibility and highlight their mission. Previously, as an Accounting Intern at Elite Accountants Inc., I worked in a team environment under mentorship guidance and successfully streamlined data migration that improved team efficiency during tax season.
 
 [Portfolio Link](https://portfoliokalina.dev)
 
-# 📚 Topics of Interest
+# 📚 Topics I Want to Explore
 
 <ul>
   <li>Web Accessibility</li>
   <li>Motion Design</li>
   <li>Responsive Design</li>
+  <li>API Integration</li>
   <li>Social Justice</li>
 </ul>
 
@@ -35,6 +35,8 @@ While pursuing a career in web development, I've interested myself in topics suc
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL" width="50"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="Django" width="50"/>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kwinoa&rank=-C&title=-Stars,-Followers,-Issues,-Reviews,-PullRequest&theme=dracula&no-bg=true&margin-w=15)](https://github.com/kwinoa/github-profile-trophy)
 
 <!--
 **Kwinoa/Kwinoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
